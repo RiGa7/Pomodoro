@@ -1,4 +1,4 @@
-# Pomodoro Timer 🍅⏱️
+# Pomodoro Timer⏱️
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![Swing](https://img.shields.io/badge/GUI-Swing-blue)
